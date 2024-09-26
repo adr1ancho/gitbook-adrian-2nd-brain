@@ -1,1 +1,1 @@
-[Notes on Spring](https://adrians-second-brain.gitbook.io/adrians-second-brain/Notes%20on%20Spring.md)
+[Notes on Spring](https://adrians-second-brain.gitbook.io/adrians-second-brain/notes-on-spring.md)

@@ -1,7 +1,7 @@
 # README
 
-[Notes on Spring](https://app.gitbook.com/o/WxELFKoGYWFB0EAuuMvE/s/GGzMbsPUvS1EaAcEY2pY/)
+[Notes on Spring](./notes-on-spring.md)
 
 {% content-ref url="./notes-on-spring.md" %}
-[./notes-on-spring.md](Notes on Spring)
+[Notes on Spring](./notes-on-spring.md)
 {% endcontent-ref %}

@@ -1,1 +1,1 @@
-[Notes on Spring](notes-on-spring.md)
+<a href="Notes on Spring/publish-your-docs.md">Notes on Spring</a>

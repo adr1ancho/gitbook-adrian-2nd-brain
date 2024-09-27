@@ -4,19 +4,19 @@ These sample projects are designed to get you productive as quickly as possible.
 
 
 ## Building a RESTful Web Service
-[Learn how to create a RESTful web service with Spring.](spring-samples/REST APIs.md)
+[Learn how to create a RESTful web service with Spring.](spring-samples/REST-APIs)
 
 ## Scheduling Tasks
-[Learn how to schedule tasks with Spring.](spring-samples/Schedule Task with Spring.md)
+[Learn how to schedule tasks with Spring.](spring-samples/Schedule-Task-with-Spring)
 
 ## Consuming a RESTful Web Service
-[Learn how to retrieve web page data with Spring's RestTemplate.](spring-samples/Rest API Consumer.md)
+[Learn how to retrieve web page data with Spring's RestTemplate.](spring-samples/Rest-API-Consumer)
 
 ## Accessing Relational Data using JDBC with Spring
-[Learn how to access relational data with Spring.](spring-samples/Data Access.md)
+[Learn how to access relational data with Spring.](spring-samples/Data-Access)
 
 ## Uploading Files
-[Learn how to build a Spring application that accepts multi-part file uploads.](spring-samples/Uploading Files.md)
+[Learn how to build a Spring application that accepts multi-part file uploads.](spring-samples/Uploading-Files)
 
 ## Authenticating a User with LDAP
 [Learn how to secure an application with LDAP.](spring-samples/Security.md)
@@ -28,22 +28,22 @@ These sample projects are designed to get you productive as quickly as possible.
 [Learn how to create a simple publish-and-subscribe application with Spring and RabbitMQ.](spring-samples/Messaging with RabbitMQ.ms)
 
 ## Accessing Data with Neo4j
-[Learn how to persist objects and relationships in Neo4j's NoSQL data store.](spring-samples/Data Access with Neo4j.md)
+[Learn how to persist objects and relationships in Neo4j's NoSQL data store.](spring-samples/Data-Access-with-Neo4j)
 
 ## Validating Form Input
-[Learn how to perform form validation with Spring.](spring-samples/Validating Form Input.md)
+[Learn how to perform form validation with Spring.](spring-samples/Validating-Form-Input)
 
 ## Building a RESTful Web Service with Spring Boot Actuator
 [Learn how to create a RESTful Web service with Spring Boot Actuator.](spring-samples/Actuator.md)
 
 ## Messaging with JMS
-[Learn how to publish and subscribe to messages using a JMS broker.](spring-samples/Messaging with JMS.md)
+[Learn how to publish and subscribe to messages using a JMS broker.](spring-samples/Messaging-with-JMS)
 
 ## Creating a Batch Service
-[Learn how to create a basic batch-driven solution.](spring-samples/Batch Processing.md)
+[Learn how to create a basic batch-driven solution.](spring-samples/Batch-Processing)
 
 ## Securing a Web Application
-[Learn how to protect your web application with Spring Security.](spring-samples/Securing a Web Application)
+[Learn how to protect your web application with Spring Security.](spring-samples/Securing-a-Web-Application)
 
 ## Building a Hypermedia-Driven RESTful Web Service
 Learn how to create a hypermedia-driven RESTful Web service with Spring.
@@ -205,5 +205,5 @@ Learn how to persist data in Cassandra.
 [Learn how to build a GraphQL service with Spring for GraphQL](spring-samples/GraphQL.md)
 
 ## Observing GraphQL in action]
-[Tutorial on GraphQL and Observability](spring-samples/Tutorial on GraphQL and Observability.md)
+[Tutorial on GraphQL and Observability](spring-samples/Tutorial-on-GraphQL-and-Observability)
 
